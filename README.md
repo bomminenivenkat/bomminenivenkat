@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bomminenivenkat
 - 👀 I’m interested in Spring Boot, Docker, Kubernetes, Cloud Technologies.
-- 🌱 I’m currently learning GCP,Azure and AWS
+- 🌱 I’m well versed with AWS, Azure and GCP.
 - 💞️ I’m looking to collaborate on Cloud implementations and migrations.
 - 📫 How to reach me @bommivenkat9@gmail.com
 
